@@ -9,13 +9,13 @@ The Stack's base color is DB Blue, `#00a5ff`. The other colors in the logo are l
 
 All fonts are available on Google Fonts.
 
-Header font: Hind
-Primary weight: 600
-Other weights: 300, 400
+- Header font: Hind
+- Primary weight: 600
+- Other weights: 300, 400
 
-Body font: Open Sans
-Primary weight: 400
-Other weights: 700
+- Body font: Open Sans
+- Primary weight: 400
+- Other weights: 700
 
 
 ## Logo
