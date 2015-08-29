@@ -2,7 +2,23 @@
 
 ## Colors
 
-The Stack's base color is DB Blue, `#00a5ff`. The other colors in the logo are lighter shades of DB Blue, `#3fbbff` and `#7fd1ff`. No official secondary/tertiary colors have been created yet, so use your best judgment. The Stack's logo text color is `#424242`.
+The base color of The Stack is DB Blue. Some other brand colors were generated with [Adobe Color CC](https://color.adobe.com/es/create/color-wheel/?base=2&rule=Compound&selected=1&name=Mi%20tema%20de%20Color&mode=rgb&rgbvalues=0.07999999999999999,0.16693498452046696,0.8,0.24,0.2834674922602335,0.6,0,0.6470588235294118,1,1,0.5643995098036498,0.25,0.8,0.2768235294115584,0.07999999999999999&swatchOrder=0,1,2,3,4).
+
+### Primary
+
+- `#00a5ff`: DB Blue, base of logo
+- `#424242`: grey of nameplate text
+
+### Secondary
+
+- `#3fbbff`: Lighter shade of DB Blue, middle plane in logo
+- `#ff9040`: Complementary orange
+
+### Tertiary
+
+- `#7fd1ff`: Even lighter shade of DB Blue, top plane in logo
+- `#cc4714`: Complementary red
+- `#3d4899`: Complementary purple
 
 
 ## Fonts
