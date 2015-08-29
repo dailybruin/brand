@@ -52,7 +52,7 @@ The nameplate for The Stack is set in Hind, weight 400.
 
 The name of this blog is The Stack. Both the 'T' and the 'S' are capitalized with a space between words. When used as an adjective, the "The" may be omitted; e.g., "Stack post" or "Stack visualization". If possible, use as an adjective should be avoided. E.g., instead of saying "Stack post", say "a post on The Stack".
 
-The editor who oversees The Stack is the data editor. The data editor is an assistant editor in the Online Department of the Daily Bruin.
+The editor who oversees The Stack is the data editor. The data editor is an assistant editor in the online department of the Daily Bruin.
 
 **Shortest description:** Data blog
 
