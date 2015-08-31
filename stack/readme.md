@@ -2,7 +2,7 @@
 
 ## Colors
 
-The base color of The Stack is DB Blue. Some other brand colors were generated with [Adobe Color CC](https://color.adobe.com/es/create/color-wheel/?base=2&rule=Compound&selected=1&name=Mi%20tema%20de%20Color&mode=rgb&rgbvalues=0.07999999999999999,0.16693498452046696,0.8,0.24,0.2834674922602335,0.6,0,0.6470588235294118,1,1,0.5643995098036498,0.25,0.8,0.2768235294115584,0.07999999999999999&swatchOrder=0,1,2,3,4).
+The base color of The Stack is DB Blue. Some other brand colors were generated with [this Adobe Color CC palette](https://color.adobe.com/es/create/color-wheel/?base=2&rule=Compound&selected=1&name=Mi%20tema%20de%20Color&mode=rgb&rgbvalues=0.07999999999999999,0.16693498452046696,0.8,0.24,0.2834674922602335,0.6,0,0.6470588235294118,1,1,0.5643995098036498,0.25,0.8,0.2768235294115584,0.07999999999999999&swatchOrder=0,1,2,3,4).
 
 ### Primary
 
