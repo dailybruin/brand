@@ -60,6 +60,8 @@ The editor who oversees The Stack is the data editor. The data editor is an assi
 
 **Short description:** Data and tech blog from the Daily Bruin
 
+**Medium description:** Data journalism and newsroom tech blog from the Daily Bruin
+
 **Long description:** The Stack is Daily Bruin’s data journalism and newsroom tech blog. We investigate public data, discuss our experiments with technology and apply quantitative insights to UCLA life.
 
 **Meta description (around 155 chars for SEO)**: The Stack is Daily Bruin’s data journalism and newsroom tech blog. We investigate public data, discuss technology experiments and apply quantitative insights.
