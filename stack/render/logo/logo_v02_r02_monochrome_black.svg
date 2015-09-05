@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="132" height="105">
+     width="136" height="105">
 
     <style type="text/css" >
         <![CDATA[
@@ -11,8 +11,8 @@
         ]]>
     </style>
 
-    <polygon points="66,52 130,74 66,103 2,74" />
-    <polygon points="66,27 130,49 66,78 2,49" />
-    <polygon points="66,2 130,24 66,53 2,24" />
+    <polygon points="68,52 132,74 68,103 4,74" />
+    <polygon points="68,27 132,49 68,78 4,49" />
+    <polygon points="68,2 132,24 68,53 4,24" />
 
 </svg>

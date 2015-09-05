@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="136" height="105">
+
+    <style type="text/css" >
+        <![CDATA[
+            polygon {
+                stroke: white;
+                stroke-width: 4px;
+            }
+        ]]>
+    </style>
+
+    <polygon points="68,52 132,74 68,103 4,74" style="fill: #00a5ff" />
+    <polygon points="68,27 132,49 68,78 4,49" style="fill: #3fbbff" />
+    <polygon points="68,2 132,24 68,53 4,24" style="fill: #7fd1ff" />
+
+</svg>
