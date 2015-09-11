@@ -45,7 +45,7 @@ The Stack's logo is in SVG format. It should not be edited by vector graphics pr
 
 ## Nameplate
 
-The nameplate text for The Stack is set in Hind, weight 400. The logo height is 1em, and the font size is 2em. A minimum free space of 0.3em should be present both around the nameplate and between the logo and the nameplate text. The top of the 't' in "Stack" should vertically align with the center of the top plane in the logo.
+The nameplate text for The Stack is set in Hind, weight 400. The logo height and font size are both 1em. A minimum free space of 0.3em should be present both around the nameplate and between the logo and the nameplate text. The top of the 't' in "Stack" should vertically align with the center of the top plane in the logo.
 
 ![Annotated nameplate](http://i.imgur.com/H544B0s.png)
 
